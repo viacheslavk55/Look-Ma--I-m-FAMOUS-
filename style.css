@@ -1,0 +1,18 @@
+body,html{
+    height: 100%;
+    width: 100%;
+}
+.title {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+.bio {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+.port {
+    background-image: url("images/portrait.jpg");
+    background-position: center center;
+    max-width: 100%;
+    height: auto;
+}
