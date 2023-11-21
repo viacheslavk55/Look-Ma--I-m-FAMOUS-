@@ -11,8 +11,6 @@ body,html{
     text-align: center;
 }
 .port {
-    background-image: url("images/portrait.jpg");
-    background-position: center center;
     max-width: 100%;
     height: auto;
 }
