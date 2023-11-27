@@ -166,4 +166,15 @@ body,html{
     right: 30px; 
     z-index: 99; 
   }
+  .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
   
